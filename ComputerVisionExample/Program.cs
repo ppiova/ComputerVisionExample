@@ -11,8 +11,10 @@ namespace ComputerVisionExample
 {
     class Program
     {
-        static string key = "";
-        static string endPoint = "";
+
+        // Add your Computer Vision subscription key and endpoint
+        static string key = Environment.GetEnvironmentVariable("COMPUTER_VISION_SUBSCRIPTION_KEY_HERE");
+        static string endPoint = Environment.GetEnvironmentVariable("COMPUTER_VISION_ENDPOINT");
 
 
         static void Main(string[] args)
