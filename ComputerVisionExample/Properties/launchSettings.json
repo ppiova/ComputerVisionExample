@@ -4,7 +4,7 @@
       "commandName": "Project",
       "environmentVariables": {
         "COMPUTER_VISION_ENDPOINT": "https://xamarincomputevision.cognitiveservices.azure.com/",
-        "COMPUTER_VISION_SUBSCRIPTION_KEY_HERE": "9948abd865c14a049cdbbb5a4a4fa4e1"
+        "COMPUTER_VISION_SUBSCRIPTION_KEY_HERE": ""
       }
     }
   }
